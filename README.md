@@ -28,7 +28,7 @@ Since it's a Storyboard Segue custom implementation, you can start using it righ
 
 ![alt text](https://raw.github.com/AlvaroFranco/AFBlurSegue/master/img/usage2.png "Usage")
 
-If you have to create your segue, create a new one by holding right click from the inital view controller to the destination view controller. It will appear a box like on the image below. Select "blur" and it will automatically will asign AFBlurSegue as segue class. Then set an identifier to the segue.
+If you have to create your segue, create a new one by holding right click from the initial view controller to the destination view controller. It will appear a box like on the image below. Select "blur" and it will automatically will assign AFBlurSegue as segue class. Then set an identifier to the segue.
 
 ![alt text](https://raw.github.com/AlvaroFranco/AFBlurSegue/master/img/usage1.png "Usage")
 
